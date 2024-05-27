@@ -1,0 +1,20 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+ul {
+  list-style-type: none;
+}
+
+ul li a {
+  margin-left: 1em;
+  font-size: 1.3em;
+  text-decoration: none;
+  padding: 1em;
+  letter-spacing: 0.2px;
+}
+
+a:hover {
+  background-color: rgb(194, 190, 190);
+  border-radius: 5px;
+}
